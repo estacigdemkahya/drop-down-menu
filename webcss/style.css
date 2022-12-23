@@ -1,8 +1,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
-
-
 body {
 	background: #212121;
 	font-size:22px;
@@ -12,7 +10,6 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	}
 	
-
 h1 {
 	font-size: 60px;
 	text-align: center;
@@ -25,18 +22,14 @@ h1 {
 	margin: 0 auto;
 }
 
-
-
 p {
 	text-align: center;
 }
-
 
 nav {
 	margin: 50px 0;
 	background-color: #9933ff;
 }
-
 
 nav ul {
 	padding: 0;
@@ -61,11 +54,9 @@ nav a {
 	text-decoration:none;
 }
 
-
 nav a:hover { 
 	background-color: #000000; 
 }
-
 
 nav ul ul {
 	display: none;
@@ -94,12 +85,9 @@ nav ul ul ul li {
 }
 
 	
-
 li > a:after {
 	content:  ' +'; 
 }
-
-
 
 li > a:only-child:after {
 	content: ''; 
