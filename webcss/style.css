@@ -5,7 +5,7 @@ body {
 	background: #212121;
 	font-size:22px;
 	line-height: 32px;
-	color: #ffffff;
+	color: #fff;
 	word-wrap:break-word !important;
 	font-family: 'Open Sans', sans-serif;
 	}
@@ -28,7 +28,7 @@ p {
 
 nav {
 	margin: 50px 0;
-	background-color: #9933ff;
+	background-color: #93f;
 }
 
 nav ul {
@@ -41,7 +41,7 @@ nav ul {
 
 nav ul li {
 	display:inline-block;
-	background-color: #9933ff;
+	background-color: #93f;
 	}
 
 
@@ -55,7 +55,7 @@ nav a {
 }
 
 nav a:hover { 
-	background-color: #000000; 
+	background-color: #000; 
 }
 
 nav ul ul {
